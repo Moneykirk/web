@@ -1,0 +1,103 @@
+body {
+    background-image: url("https://witherspoonboxing.com/wp-content/uploads/2018/05/modern-dark-abstract-red-light-background-powerpoint.jpg");
+}
+header {
+    padding-top: 15px; 
+}
+#image1 {
+    padding-top: 16px; 
+    height: 55px; width: 55px;float:left; 
+}
+
+#image1:hover {
+   
+    display: inline-block;
+    background-color: lightyellow;
+}
+h1 {
+    font-size: 50px; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #4400FF;
+    
+}
+a:link, a:visited {
+text-decoration: none; 
+}
+a:hover{
+background-color: lightyellow;
+}
+#nav1 {
+ 
+  float: right;
+
+}
+#nav2 {
+padding-top: 25px;
+font-size: 20px;
+color: #0077FF;
+border: 4px green hidden;
+margin: 5px;
+}
+#nav2:link, #nav2:visited {
+    text-decoration: none; 
+}
+#nav2:hover{
+    background-color: lightyellow;
+}
+h3{
+    font-size: 23px;
+    color: #0389ff;
+}
+p{
+    font-size: 16px;
+    padding: 5px;
+    color: rgb(0, 255, 89);
+    
+}
+td {
+    padding-left: 250px;
+  }
+#maintable {
+    float: left;
+    padding-left: 100px;
+    font-size: 23px;
+    color:#0077FF;
+}
+#maintable2{
+    float: left;
+    padding-left: 250px;
+    font-size: 23px;
+    color: #0077FF;
+}
+#subtable{
+    float: left;
+    padding-left: 100px;
+    font-size: 20px;
+    color: #0389ff;
+    text-decoration: underline;
+}
+#subtable2{
+    float: left;
+    padding-left: 200px;
+    font-size: 20px;
+    color: #0389ff;
+    text-decoration: underline;
+}
+#basictable{
+    float: left;
+    padding-left: 100px;
+    font-size: 20px;
+    color: rgb(0, 255, 89);
+}
+#basictable2{
+    float: left;
+    padding-left: 200px;
+    font-size: 20px;
+    color: rgb(0, 255, 89);
+}
+#basictable3{
+    float: left;
+    padding-left: 150px;
+    font-size: 20px;
+    color: rgb(0, 255, 89);
+}
